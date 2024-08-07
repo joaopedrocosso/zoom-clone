@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import React, { ReactNode } from 'react'
 
 export const metadata: Metadata = {
-  title: "Zoom Clone",
+  title: "Hoom",
   description: "Full Stack Next.js Zoom Clone",
   icons: {
     icon: '/icons/logo.svg'

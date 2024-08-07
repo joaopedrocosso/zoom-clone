@@ -54,7 +54,7 @@ const Personal = () => {
 
       <div className='flex gap-5'>
         <Button className='bg-blue-1' onClick={startRoom}>
-          
+          Start Meeting
         </Button>
 
         <Button className='bg-dark-3' onClick={() => {
